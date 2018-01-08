@@ -45,6 +45,7 @@ int main()
     vect.push(2);
     vect.push(5);
     vect.push(9);
+	//vect.push(78);
     cout<<"Stiva cu elemente int: \n";
        while (!vect.isEmpty())
         {
